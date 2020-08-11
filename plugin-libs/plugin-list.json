@@ -19,9 +19,9 @@
     "name": "Ftp客户端调试工具",
     "synopsis": "Ftp客户端调试工具",
     "jarName": "x-FtpClientTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpClientTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpClientTool-0.0.2.jar"
   },
   {
     "name": "Ftp服务器",
@@ -67,9 +67,9 @@
     "name": "Socket调试工具",
     "synopsis": "Socket调试工具",
     "jarName": "x-SocketTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SocketTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SocketTool-0.0.2.jar"
   },
   {
     "name": "切换Hosts工具",
