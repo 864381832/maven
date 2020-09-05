@@ -219,9 +219,9 @@
     "name": "文件复制",
     "synopsis": "文件复制(支持自动调度拷贝功能)",
     "jarName": "x-FileCopy",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileCopy-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileCopy-0.0.2.jar"
   },
   {
     "name": "文件合并工具",
