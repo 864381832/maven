@@ -502,5 +502,13 @@
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileBuildTool-0.0.1.jar"
+  },
+  {
+    "name": "java反编译工具",
+    "synopsis": "引用Luyten的一个java反编译工具",
+    "jarName": "x-LuytenTool",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-LuytenTool-0.0.1.jar"
   }
 ]
