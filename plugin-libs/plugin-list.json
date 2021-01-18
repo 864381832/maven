@@ -518,5 +518,13 @@
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ElementaryArithmeticProblemTool-0.0.1.jar"
+  },
+  {
+    "name": "坐标系转换工具",
+    "synopsis": "提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换",
+    "jarName": "x-CoordinateTransformTool",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CoordinateTransformTool-0.0.1.jar"
   }
 ]
