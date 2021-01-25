@@ -526,5 +526,13 @@
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CoordinateTransformTool-0.0.1.jar"
+  },
+  {
+    "name": "hdfs管理工具",
+    "synopsis": "hdfs可视化管理工具，支持上传、下载、重命名、复制、移动和删除等功能",
+    "jarName": "x-HdfsTool",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-HdfsTool-0.0.1.jar"
   }
 ]
