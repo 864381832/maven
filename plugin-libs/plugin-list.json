@@ -73,11 +73,11 @@
   },
   {
     "name": "切换Hosts工具",
-    "synopsis": "",
+    "synopsis": "可快速编辑hosts文件内容",
     "jarName": "x-SwitchHostsTool",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SwitchHostsTool-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SwitchHostsTool-0.0.3.jar"
   },
   {
     "name": "Zookeeper工具",
