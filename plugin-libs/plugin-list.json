@@ -534,5 +534,13 @@
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-HdfsTool-0.0.1.jar"
+  },
+  {
+    "name": "license生成工具",
+    "synopsis": "快速license生成工具，支持生成TrueLicense信息",
+    "jarName": "x-KeyTool",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-KeyTool-0.0.1.jar"
   }
 ]
