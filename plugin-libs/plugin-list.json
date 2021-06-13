@@ -542,5 +542,13 @@
     "version": "0.0.2",
     "versionNumber": 2,
     "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-KeyTool-0.0.2.jar"
+  },
+  {
+    "name": "亲戚关系计算器",
+    "synopsis": "通过亲戚关系链计算称呼的功能",
+    "jarName": "x-RelationshipCalculator",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-RelationshipCalculator-0.0.1.jar"
   }
 ]
