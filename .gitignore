@@ -7,3 +7,4 @@
 *.sln
 
 maven.iml
+.DS_Store
