@@ -17,7 +17,7 @@
   },
   {
     "name": "Ftp客户端调试工具",
-    "synopsis": "Ftp客户端调试工具",
+    "synopsis": "进行ftp(s)/Sftp批量上传、下载、删除文件及文件夹，支持implicit/explicit SSL/TLS协议",
     "jarName": "x-FtpClientTool",
     "version": "0.0.2",
     "versionNumber": 2,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Socket调试工具",
-    "synopsis": "Socket调试工具",
+    "synopsis": "实现Tcp、Udp服务端和Client端",
     "jarName": "x-SocketTool",
     "version": "0.0.2",
     "versionNumber": 2,
@@ -113,7 +113,7 @@
   },
   {
     "name": "文件列表生成器",
-    "synopsis": "",
+    "synopsis": "快速生成目录结构图片，用于项目展示说明使用",
     "jarName": "x-DirectoryTreeTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -145,7 +145,7 @@
   },
   {
     "name": "猜数字游戏",
-    "synopsis": "",
+    "synopsis": "古老的的密码破译类益智类小游戏",
     "jarName": "x-BullsAndCowsGame",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -153,7 +153,7 @@
   },
   {
     "name": "数独",
-    "synopsis": "数独游戏",
+    "synopsis": "益智类数独游戏javafx版本",
     "jarName": "x-Sudoku",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -169,7 +169,7 @@
   },
   {
     "name": "编码转换",
-    "synopsis": "",
+    "synopsis": "常用字符集编码及进制之间转换工具",
     "jarName": "x-CharacterConverter",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -177,7 +177,7 @@
   },
   {
     "name": "Cron表达式生成器",
-    "synopsis": "",
+    "synopsis": "cron表达式快速生成及解析测试工具",
     "jarName": "x-CronExpBuilder",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -185,7 +185,7 @@
   },
   {
     "name": "邮件发送工具",
-    "synopsis": "",
+    "synopsis": "支持各种协议的邮件发送及自定义群发模版",
     "jarName": "x-EmailTool",
     "version": "0.0.2",
     "versionNumber": 2,
@@ -217,7 +217,7 @@
   },
   {
     "name": "文件复制",
-    "synopsis": "文件复制(支持自动调度拷贝功能)",
+    "synopsis": "进行系统文件之间快速复制、移动操作，支持自动调度拷贝功能",
     "jarName": "x-FileCopy",
     "version": "0.0.2",
     "versionNumber": 2,
@@ -233,7 +233,7 @@
   },
   {
     "name": "文件重命名工具",
-    "synopsis": "",
+    "synopsis": "对文件进行自定义快捷重命名操作",
     "jarName": "x-FileRenameTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -265,7 +265,7 @@
   },
   {
     "name": "图片压缩工具",
-    "synopsis": "图片压缩工具(批量压缩、修改尺寸、转换格式)",
+    "synopsis": "支持对图片进行批量压缩、修改尺寸、转换格式等功能",
     "jarName": "x-ImageTool",
     "version": "0.0.3",
     "versionNumber": 3,
@@ -273,7 +273,7 @@
   },
   {
     "name": "路径转换",
-    "synopsis": "",
+    "synopsis": "进行linux与Windows系统之间路径格式转换",
     "jarName": "x-LinuxPathToWindowsPath",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -305,7 +305,7 @@
   },
   {
     "name": "印章生成工具",
-    "synopsis": "",
+    "synopsis": "快速生成多种风格、多种字体的个性化印章",
     "jarName": "x-SealBuilderTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -313,7 +313,7 @@
   },
   {
     "name": "久坐提醒工具",
-    "synopsis": "",
+    "synopsis": "自定义时长倒计时提醒功能",
     "jarName": "x-SedentaryReminderTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -361,7 +361,7 @@
   },
   {
     "name": "颜色代码转换工具",
-    "synopsis": "颜色代码转换工具(包括16进制、RGB、ARGB、RGBA、HSL、HSV等代码之间转换)",
+    "synopsis": "对颜色包括16进制、RGB、ARGB、RGBA、HSL、HSV等代码之间转换",
     "jarName": "x-ColorCodeConverterTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -377,7 +377,7 @@
   },
   {
     "name": "文件编码转换工具",
-    "synopsis": "",
+    "synopsis": "快速实现文件编码批量转换",
     "jarName": "x-FileUnicodeTransformationTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -393,7 +393,7 @@
   },
   {
     "name": "随机数生成工具",
-    "synopsis": "",
+    "synopsis": "快速生成各种类型的随机数",
     "jarName": "x-RandomGeneratorTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -401,7 +401,7 @@
   },
   {
     "name": "正则表达式生成工具",
-    "synopsis": "",
+    "synopsis": "正则表达式快速生成与测试验证工具",
     "jarName": "x-RegexTester",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -409,7 +409,7 @@
   },
   {
     "name": "网页源码下载工具",
-    "synopsis": "网页源码下载工具",
+    "synopsis": "可根据网址下载对应网页相关内容及资源",
     "jarName": "x-WebSourcesTool",
     "version": "0.0.1",
     "versionNumber": 1,
@@ -433,7 +433,7 @@
   },
   {
     "name": "语音转换工具",
-    "synopsis": "",
+    "synopsis": "将字符串转换为语音格式并朗读",
     "jarName": "x-TextToSpeechTool",
     "version": "0.0.2",
     "versionNumber": 2,
@@ -497,7 +497,7 @@
   },
   {
     "name": "文件生成工具",
-    "synopsis": "根据模版生成一系列文件",
+    "synopsis": "根据自定义模板快速批量生成文件，用于测试使用",
     "jarName": "x-FileBuildTool",
     "version": "0.0.1",
     "versionNumber": 1,
