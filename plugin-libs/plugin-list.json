@@ -139,9 +139,9 @@
     "name": "端口扫描工具",
     "synopsis": "扫描一些常用端口和自定义端口",
     "jarName": "x-ScanPortTool",
-    "version": "0.0.3",
-    "versionNumber": 3,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-ScanPortTool-0.0.3.jar"
+    "version": "0.0.4",
+    "versionNumber": 4,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-ScanPortTool-0.0.4.jar"
   },
   {
     "name": "猜数字游戏",
