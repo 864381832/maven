@@ -550,5 +550,13 @@
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-RelationshipCalculator-0.0.1.jar"
+  },
+  {
+    "name": "表达式解析器调试工具",
+    "synopsis": "一款表达式解析器调试工具，目前支持SpringEL、Velocity 、FreeMarker、StringTemplate、Mvel、Aviator、commons-jexl 、BeanShell等表达式引擎",
+    "jarName": "x-ExpressionParserTool",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ExpressionParserTool-0.0.1.jar"
   }
 ]
