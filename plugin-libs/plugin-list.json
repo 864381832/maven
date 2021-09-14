@@ -121,11 +121,11 @@
   },
   {
     "name": "Json转换工具",
-    "synopsis": "Json转换工具(目前支持Json转Xml、Json转Java实体类、Json转C#实体类、Json转Excel、Json转Yaml、Properties转Yaml、Yaml转Properties)",
+    "synopsis": "Json转换工具(目前支持Json转Xml、Json转Java实体类、Json转JsonPath、Json转C#实体类、Json转Excel、Json转Yaml、Properties转Yaml、Yaml转Properties)",
     "jarName": "x-JsonConvertTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-JsonConvertTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-JsonConvertTool-0.0.2.jar"
   },
   {
     "name": "文件夹监控工具",
