@@ -233,11 +233,11 @@
   },
   {
     "name": "文件重命名工具",
-    "synopsis": "对文件进行自定义快捷重命名操作",
+    "synopsis": "对文件进行自定义快捷批量重命名操作",
     "jarName": "x-FileRenameTool",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileRenameTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileRenameTool-0.0.2.jar"
   },
   {
     "name": "文件搜索工具",
