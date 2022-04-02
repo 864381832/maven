@@ -403,9 +403,9 @@
     "name": "正则表达式生成工具",
     "synopsis": "正则表达式快速生成与测试验证工具",
     "jarName": "x-RegexTester",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-RegexTester-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-RegexTester-0.0.2.jar"
   },
   {
     "name": "网页源码下载工具",
