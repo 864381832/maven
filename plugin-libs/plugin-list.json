@@ -267,9 +267,9 @@
     "name": "图片压缩工具",
     "synopsis": "支持对图片进行批量压缩、修改尺寸、转换格式等功能",
     "jarName": "x-ImageTool",
-    "version": "0.0.3",
-    "versionNumber": 3,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ImageTool-0.0.3.jar"
+    "version": "0.0.4",
+    "versionNumber": 4,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ImageTool-0.0.4.jar"
   },
   {
     "name": "路径转换",
