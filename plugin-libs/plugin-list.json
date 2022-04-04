@@ -83,9 +83,9 @@
     "name": "Zookeeper工具",
     "synopsis": "Zookeeper工具(方便对zookeeper的一系列操作，包括新增、修改、删除(包括子文件)、重命名、复制、添加变更通知)",
     "jarName": "x-ZookeeperTool",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ZookeeperTool-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ZookeeperTool-0.0.3.jar"
   },
   {
     "name": "传输工具",
