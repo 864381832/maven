@@ -99,9 +99,9 @@
     "name": "图片转码工具",
     "synopsis": "图片转码工具(包括图片生成banner码、图片转Base64码、图片转Excel表)",
     "jarName": "x-AsciiPicTool",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-AsciiPicTool-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-AsciiPicTool-0.0.3.jar"
   },
   {
     "name": "剪贴板历史工具",
