@@ -51,9 +51,9 @@
     "name": "Redis连接工具",
     "synopsis": "Redis连接工具",
     "jarName": "x-RedisTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-RedisTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-RedisTool-0.0.2.jar"
   },
   {
     "name": "脚本引擎调试工具",
@@ -67,9 +67,9 @@
     "name": "Socket调试工具",
     "synopsis": "实现Tcp、Udp服务端和Client端",
     "jarName": "x-SocketTool",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SocketTool-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SocketTool-0.0.3.jar"
   },
   {
     "name": "切换Hosts工具",
