@@ -19,25 +19,25 @@
     "name": "Ftp客户端调试工具",
     "synopsis": "进行ftp(s)/Sftp批量上传、下载、删除文件及文件夹，支持implicit/explicit SSL/TLS协议",
     "jarName": "x-FtpClientTool",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpClientTool-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpClientTool-0.0.3.jar"
   },
   {
     "name": "Ftp服务器",
     "synopsis": "Ftp服务器(快速搭建本地Ftp服务)",
     "jarName": "x-FtpServer",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpServer-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpServer-0.0.2.jar"
   },
   {
     "name": "Http接口测试工具",
     "synopsis": "Http调试工具(支持自定义发送数据、header和cookie)",
     "jarName": "x-HttpTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-HttpTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-HttpTool-0.0.2.jar"
   },
   {
     "name": "Kafka调试工具",
@@ -107,9 +107,9 @@
     "name": "剪贴板历史工具",
     "synopsis": "",
     "jarName": "x-ClipboardHistoryTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-ClipboardHistoryTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-ClipboardHistoryTool-0.0.2.jar"
   },
   {
     "name": "文件列表生成器",
@@ -171,9 +171,9 @@
     "name": "编码转换",
     "synopsis": "常用字符集编码及进制之间转换工具",
     "jarName": "x-CharacterConverter",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CharacterConverter-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CharacterConverter-0.0.2.jar"
   },
   {
     "name": "Cron表达式生成器",
