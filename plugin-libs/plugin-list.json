@@ -3,9 +3,9 @@
     "name": "ActiveMq调试工具",
     "synopsis": "ActiveMq调试工具",
     "jarName": "x-ActiveMqTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ActiveMqTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ActiveMqTool-0.0.2.jar"
   },
   {
     "name": "Cmd调试工具",
