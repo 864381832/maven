@@ -123,9 +123,9 @@
     "name": "Json转换工具",
     "synopsis": "Json转换工具(目前支持Json转Xml、Json转Java实体类、Json转JsonPath、Json转C#实体类、Json转Excel、Json转Yaml、Properties转Yaml、Yaml转Properties)",
     "jarName": "x-JsonConvertTool",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-JsonConvertTool-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-JsonConvertTool-0.0.3.jar"
   },
   {
     "name": "文件夹监控工具",
@@ -299,9 +299,9 @@
     "name": "二维码生成工具",
     "synopsis": "二维码生成工具(自动生成、加入logo、截图识别、自定义格式)",
     "jarName": "x-QRCodeBuilder",
-    "version": "0.0.2",
-    "versionNumber": 2,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-QRCodeBuilder-0.0.2.jar"
+    "version": "0.0.3",
+    "versionNumber": 3,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-QRCodeBuilder-0.0.3.jar"
   },
   {
     "name": "印章生成工具",
@@ -331,17 +331,17 @@
     "name": "Time转换",
     "synopsis": "Time转换(常用格式转换(含时区)、计算时间差、时间叠加计算)",
     "jarName": "x-TimeTool",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-TimeTool-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-TimeTool-0.0.2.jar"
   },
   {
     "name": "字符串转换",
     "synopsis": "字符串转换(实现拼音、简体-繁体、简体-臺灣正體、简体-香港繁體、繁體-臺灣正體、繁體-香港繁體、香港繁體-臺灣正體、数字金额-大写金额等直接的转换)",
     "jarName": "x-ZHConverter",
-    "version": "0.0.1",
-    "versionNumber": 1,
-    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ZHConverter-0.0.1.jar"
+    "version": "0.0.2",
+    "versionNumber": 2,
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ZHConverter-0.0.2.jar"
   },
   {
     "name": "网址缩短",
