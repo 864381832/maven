@@ -558,5 +558,13 @@
     "version": "0.0.2",
     "versionNumber": 2,
     "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-ExpressionParserTool-0.0.2.jar"
+  },
+  {
+    "name": "Mybatis代码生成工具",
+    "synopsis": "本工具可以使你非常容易及快速生成Mybatis的Java POJO文件及数据库Mapping文件",
+    "jarName": "mybatis-generator-gui",
+    "version": "0.8.8",
+    "versionNumber": 1,
+    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/mybatis-generator-gui-0.8.8.jar"
   }
 ]
