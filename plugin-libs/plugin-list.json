@@ -5,7 +5,7 @@
     "jarName": "x-ActiveMqTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-ActiveMqTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ActiveMqTool-0.0.2.jar"
   },
   {
     "name": "Cmd调试工具",
@@ -13,7 +13,7 @@
     "jarName": "x-CmdTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-CmdTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-CmdTool-0.0.1.jar"
   },
   {
     "name": "Ftp客户端调试工具",
@@ -21,7 +21,7 @@
     "jarName": "x-FtpClientTool",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-FtpClientTool-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpClientTool-0.0.3.jar"
   },
   {
     "name": "Ftp服务器",
@@ -29,7 +29,7 @@
     "jarName": "x-FtpServer",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-FtpServer-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-FtpServer-0.0.2.jar"
   },
   {
     "name": "Http接口测试工具",
@@ -37,7 +37,7 @@
     "jarName": "x-HttpTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-HttpTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-HttpTool-0.0.2.jar"
   },
   {
     "name": "Kafka调试工具",
@@ -45,7 +45,7 @@
     "jarName": "x-KafkaTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-KafkaTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-KafkaTool-0.0.1.jar"
   },
   {
     "name": "Redis连接工具",
@@ -53,7 +53,7 @@
     "jarName": "x-RedisTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-RedisTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-RedisTool-0.0.2.jar"
   },
   {
     "name": "脚本引擎调试工具",
@@ -61,7 +61,7 @@
     "jarName": "x-ScriptEngineTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-ScriptEngineTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ScriptEngineTool-0.0.1.jar"
   },
   {
     "name": "Socket调试工具",
@@ -69,7 +69,7 @@
     "jarName": "x-SocketTool",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-SocketTool-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SocketTool-0.0.3.jar"
   },
   {
     "name": "切换Hosts工具",
@@ -77,7 +77,7 @@
     "jarName": "x-SwitchHostsTool",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-SwitchHostsTool-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-SwitchHostsTool-0.0.3.jar"
   },
   {
     "name": "Zookeeper工具",
@@ -85,7 +85,7 @@
     "jarName": "x-ZookeeperTool",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-ZookeeperTool-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ZookeeperTool-0.0.3.jar"
   },
   {
     "name": "传输工具",
@@ -93,7 +93,7 @@
     "jarName": "x-TransferTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-TransferTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-TransferTool-0.0.1.jar"
   },
   {
     "name": "图片转码工具",
@@ -101,7 +101,7 @@
     "jarName": "x-AsciiPicTool",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-AsciiPicTool-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-AsciiPicTool-0.0.3.jar"
   },
   {
     "name": "剪贴板历史工具",
@@ -109,7 +109,7 @@
     "jarName": "x-ClipboardHistoryTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-ClipboardHistoryTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-ClipboardHistoryTool-0.0.2.jar"
   },
   {
     "name": "文件列表生成器",
@@ -117,7 +117,7 @@
     "jarName": "x-DirectoryTreeTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-DirectoryTreeTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-DirectoryTreeTool-0.0.1.jar"
   },
   {
     "name": "Json转换工具",
@@ -125,7 +125,7 @@
     "jarName": "x-JsonConvertTool",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-JsonConvertTool-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-JsonConvertTool-0.0.3.jar"
   },
   {
     "name": "文件夹监控工具",
@@ -133,7 +133,7 @@
     "jarName": "x-PathWatchTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-PathWatchTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-PathWatchTool-0.0.1.jar"
   },
   {
     "name": "端口扫描工具",
@@ -141,7 +141,7 @@
     "jarName": "x-ScanPortTool",
     "version": "0.0.4",
     "versionNumber": 4,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-ScanPortTool-0.0.4.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-ScanPortTool-0.0.4.jar"
   },
   {
     "name": "猜数字游戏",
@@ -149,7 +149,7 @@
     "jarName": "x-BullsAndCowsGame",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/games/x-BullsAndCowsGame-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/games/x-BullsAndCowsGame-0.0.1.jar"
   },
   {
     "name": "数独",
@@ -157,7 +157,7 @@
     "jarName": "x-Sudoku",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/games/x-Sudoku-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/games/x-Sudoku-0.0.1.jar"
   },
   {
     "name": "2048",
@@ -165,7 +165,7 @@
     "jarName": "x-X2048",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/games/x-X2048-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/games/x-X2048-0.0.1.jar"
   },
   {
     "name": "编码转换",
@@ -173,7 +173,7 @@
     "jarName": "x-CharacterConverter",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-CharacterConverter-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CharacterConverter-0.0.2.jar"
   },
   {
     "name": "Cron表达式生成器",
@@ -181,7 +181,7 @@
     "jarName": "x-CronExpBuilder",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-CronExpBuilder-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CronExpBuilder-0.0.1.jar"
   },
   {
     "name": "邮件发送工具",
@@ -189,7 +189,7 @@
     "jarName": "x-EmailTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-EmailTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-EmailTool-0.0.2.jar"
   },
   {
     "name": "加密解密",
@@ -197,7 +197,7 @@
     "jarName": "x-EncryptAndDecrypt",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-EncryptAndDecrypt-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-EncryptAndDecrypt-0.0.1.jar"
   },
   {
     "name": "Excel拆分工具",
@@ -205,7 +205,7 @@
     "jarName": "x-ExcelSplitTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-ExcelSplitTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ExcelSplitTool-0.0.1.jar"
   },
   {
     "name": "文件解压缩工具",
@@ -213,7 +213,7 @@
     "jarName": "x-FileCompressTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-FileCompressTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileCompressTool-0.0.1.jar"
   },
   {
     "name": "文件复制",
@@ -221,7 +221,7 @@
     "jarName": "x-FileCopy",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-FileCopy-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileCopy-0.0.2.jar"
   },
   {
     "name": "文件合并工具",
@@ -229,7 +229,7 @@
     "jarName": "x-FileMergeTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-FileMergeTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileMergeTool-0.0.1.jar"
   },
   {
     "name": "文件重命名工具",
@@ -237,7 +237,7 @@
     "jarName": "x-FileRenameTool",
     "version": "0.0.2",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-FileRenameTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileRenameTool-0.0.2.jar"
   },
   {
     "name": "文件搜索工具",
@@ -245,7 +245,7 @@
     "jarName": "x-FileSearchTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-FileSearchTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileSearchTool-0.0.1.jar"
   },
   {
     "name": "图标生成工具",
@@ -253,7 +253,7 @@
     "jarName": "x-IconTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-IconTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-IconTool-0.0.1.jar"
   },
   {
     "name": "图片解析工具",
@@ -261,7 +261,7 @@
     "jarName": "x-ImageAnalysisTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-ImageAnalysisTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ImageAnalysisTool-0.0.1.jar"
   },
   {
     "name": "图片压缩工具",
@@ -269,7 +269,7 @@
     "jarName": "x-ImageTool",
     "version": "0.0.4",
     "versionNumber": 4,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-ImageTool-0.0.4.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ImageTool-0.0.4.jar"
   },
   {
     "name": "路径转换",
@@ -277,7 +277,7 @@
     "jarName": "x-LinuxPathToWindowsPath",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-LinuxPathToWindowsPath-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-LinuxPathToWindowsPath-0.0.1.jar"
   },
   {
     "name": "Mp3转换工具",
@@ -285,7 +285,7 @@
     "jarName": "x-Mp3ConvertTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-Mp3ConvertTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-Mp3ConvertTool-0.0.1.jar"
   },
   {
     "name": "Pdf转换工具",
@@ -293,7 +293,7 @@
     "jarName": "x-PdfConvertTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-PdfConvertTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-PdfConvertTool-0.0.1.jar"
   },
   {
     "name": "二维码生成工具",
@@ -301,7 +301,7 @@
     "jarName": "x-QRCodeBuilder",
     "version": "0.0.3",
     "versionNumber": 3,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-QRCodeBuilder-0.0.3.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-QRCodeBuilder-0.0.3.jar"
   },
   {
     "name": "印章生成工具",
@@ -309,7 +309,7 @@
     "jarName": "x-SealBuilderTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-SealBuilderTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-SealBuilderTool-0.0.1.jar"
   },
   {
     "name": "久坐提醒工具",
@@ -317,7 +317,7 @@
     "jarName": "x-SedentaryReminderTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-SedentaryReminderTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-SedentaryReminderTool-0.0.1.jar"
   },
   {
     "name": "短信群发工具",
@@ -325,7 +325,7 @@
     "jarName": "x-SmsTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-SmsTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-SmsTool-0.0.1.jar"
   },
   {
     "name": "Time转换",
@@ -333,7 +333,7 @@
     "jarName": "x-TimeTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-TimeTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-TimeTool-0.0.2.jar"
   },
   {
     "name": "字符串转换",
@@ -341,7 +341,7 @@
     "jarName": "x-ZHConverter",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-ZHConverter-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ZHConverter-0.0.2.jar"
   },
   {
     "name": "网址缩短",
@@ -349,7 +349,7 @@
     "jarName": "x-ShortURL",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/webTools/x-ShortURL-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/webTools/x-ShortURL-0.0.1.jar"
   },
   {
     "name": "编码转换工具",
@@ -357,7 +357,7 @@
     "jarName": "x-CharsetDetectTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-CharsetDetectTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-CharsetDetectTool-0.0.1.jar"
   },
   {
     "name": "颜色代码转换工具",
@@ -365,7 +365,7 @@
     "jarName": "x-ColorCodeConverterTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-ColorCodeConverterTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-ColorCodeConverterTool-0.0.1.jar"
   },
   {
     "name": "转义字符",
@@ -373,7 +373,7 @@
     "jarName": "x-EscapeCharacter",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-EscapeCharacter-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-EscapeCharacter-0.0.1.jar"
   },
   {
     "name": "文件编码转换工具",
@@ -381,7 +381,7 @@
     "jarName": "x-FileUnicodeTransformationTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-FileUnicodeTransformationTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-FileUnicodeTransformationTool-0.0.1.jar"
   },
   {
     "name": "身份证生成工具",
@@ -389,7 +389,7 @@
     "jarName": "x-IdCardGenerator",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-IdCardGenerator-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-IdCardGenerator-0.0.1.jar"
   },
   {
     "name": "随机数生成工具",
@@ -397,7 +397,7 @@
     "jarName": "x-RandomGeneratorTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-RandomGeneratorTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-RandomGeneratorTool-0.0.1.jar"
   },
   {
     "name": "正则表达式生成工具",
@@ -405,7 +405,7 @@
     "jarName": "x-RegexTester",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-RegexTester-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-RegexTester-0.0.2.jar"
   },
   {
     "name": "网页源码下载工具",
@@ -413,7 +413,7 @@
     "jarName": "x-WebSourcesTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/codeTools/x-WebSourcesTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/codeTools/x-WebSourcesTool-0.0.1.jar"
   },
   {
     "name": "反编译微信小程序包工具",
@@ -421,7 +421,7 @@
     "jarName": "x-DecompilerWxApkgTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/assistTools/x-DecompilerWxApkgTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/assistTools/x-DecompilerWxApkgTool-0.0.1.jar"
   },
   {
     "name": "成语字典工具",
@@ -429,7 +429,7 @@
     "jarName": "x-IdiomDataTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/assistTools/x-IdiomDataTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/assistTools/x-IdiomDataTool-0.0.1.jar"
   },
   {
     "name": "语音转换工具",
@@ -437,7 +437,7 @@
     "jarName": "x-TextToSpeechTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/assistTools/x-TextToSpeechTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/assistTools/x-TextToSpeechTool-0.0.2.jar"
   },
   {
     "name": "微信跳一跳助手",
@@ -445,7 +445,7 @@
     "jarName": "x-WechatJumpGameTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/assistTools/x-WechatJumpGameTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/assistTools/x-WechatJumpGameTool-0.0.1.jar"
   },
   {
     "name": "javaFxFxml转换代码",
@@ -453,7 +453,7 @@
     "jarName": "x-JavaFxXmlToObjectCode",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/javaFxTools/x-JavaFxXmlToObjectCode-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/javaFxTools/x-JavaFxXmlToObjectCode-0.0.2.jar"
   },
   {
     "name": "显示系统信息",
@@ -461,7 +461,7 @@
     "jarName": "x-ShowSystemInfo",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/javaFxTools/x-ShowSystemInfo-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/javaFxTools/x-ShowSystemInfo-0.0.1.jar"
   },
   {
     "name": "Cron表达式生成器Html版",
@@ -469,7 +469,7 @@
     "jarName": "x-WebCronExpBuilder",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/netWorkTools/x-WebCronExpBuilder-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/netWorkTools/x-WebCronExpBuilder-0.0.1.jar"
   },
   {
     "name": "json编辑工具Html版",
@@ -477,7 +477,7 @@
     "jarName": "x-WebJsonEditor",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/netWorkTools/x-WebJsonEditor-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/netWorkTools/x-WebJsonEditor-0.0.1.jar"
   },
   {
     "name": "小程序码生成工具",
@@ -485,7 +485,7 @@
     "jarName": "x-LiteappCode",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-LiteappCode-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-LiteappCode-0.0.1.jar"
   },
   {
     "name": "关系型数据库同步工具",
@@ -493,7 +493,7 @@
     "jarName": "x-RdbmsSyncTool",
     "version": "0.0.4",
     "versionNumber": 4,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-RdbmsSyncTool-0.0.4.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-RdbmsSyncTool-0.0.4.jar"
   },
   {
     "name": "文件生成工具",
@@ -501,7 +501,7 @@
     "jarName": "x-FileBuildTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-FileBuildTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-FileBuildTool-0.0.1.jar"
   },
   {
     "name": "java反编译工具",
@@ -509,7 +509,7 @@
     "jarName": "x-LuytenTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/x-LuytenTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/x-LuytenTool-0.0.1.jar"
   },
   {
     "name": "小学生算数题生成工具",
@@ -517,7 +517,7 @@
     "jarName": "x-ElementaryArithmeticProblemTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-ElementaryArithmeticProblemTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-ElementaryArithmeticProblemTool-0.0.1.jar"
   },
   {
     "name": "坐标系转换工具",
@@ -525,7 +525,7 @@
     "jarName": "x-CoordinateTransformTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-CoordinateTransformTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-CoordinateTransformTool-0.0.1.jar"
   },
   {
     "name": "hdfs管理工具",
@@ -533,7 +533,7 @@
     "jarName": "x-HdfsTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-HdfsTool-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-HdfsTool-0.0.1.jar"
   },
   {
     "name": "license生成工具",
@@ -541,7 +541,7 @@
     "jarName": "x-KeyTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-KeyTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-KeyTool-0.0.2.jar"
   },
   {
     "name": "亲戚关系计算器",
@@ -549,7 +549,7 @@
     "jarName": "x-RelationshipCalculator",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/littleTools/x-RelationshipCalculator-0.0.1.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/littleTools/x-RelationshipCalculator-0.0.1.jar"
   },
   {
     "name": "表达式解析器调试工具",
@@ -557,7 +557,7 @@
     "jarName": "x-ExpressionParserTool",
     "version": "0.0.2",
     "versionNumber": 2,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/debugTools/x-ExpressionParserTool-0.0.2.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/debugTools/x-ExpressionParserTool-0.0.2.jar"
   },
   {
     "name": "Mybatis代码生成工具",
@@ -565,6 +565,6 @@
     "jarName": "mybatis-generator-gui",
     "version": "0.8.8",
     "versionNumber": 1,
-    "downloadUrl": "http://qiniu.xwintop.com/xJavaFxTool/plugin-libs/developTools/mybatis-generator-gui-0.8.8.jar"
+    "downloadUrl": "https://xwintop.gitee.io/maven/plugin-libs/developTools/mybatis-generator-gui-0.8.8.jar"
   }
 ]
